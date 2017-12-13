@@ -9,4 +9,6 @@ fortuneService:
   address: fortuneservice
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
+ConnectionStrings:
+    AttendeeContext: Server=tcp:pa-workshop.database.windows.net,1433;Initial Catalog=AttendeeDB-S1;Persist Security Info=False;User ID=dbadmin;Password=PCF!Password;Connection Timeout=30;
 
