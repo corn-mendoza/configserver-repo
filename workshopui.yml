@@ -10,5 +10,4 @@ fortuneService:
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
 ConnectionStrings:
-    AttendeeContext: Server=tcp:pa-workshop.database.windows.net,1433;Initial Catalog=AttendeeDB-S1;Persist Security Info=False;User ID=dbadmin;Password=PCF!Password;Connection Timeout=30;
-
+    AttendeeContext: Server=pa-workshop.database.windows.net;Initial Catalog=AttendeeDB-S1;User ID=dbadmin;Password=PCF!Password;
