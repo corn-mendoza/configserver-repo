@@ -1,0 +1,2 @@
+ConnectionStrings:
+    AttendeeContext: Server=pa-workshop.database.windows.net;Initial Catalog=AttendeeDB-S1;User ID=dbadmin;Password=PCF!Password;
