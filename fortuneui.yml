@@ -22,4 +22,4 @@ workshopConfig:
     PCFMetricsUrl: https://metrics.sys.islands.cloud/apps/
     ExchangeUrl: https://exchangeui-alcidine-trichinization.apps.islands.cloud/
     GithubRepoUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2
-    ManifestUrl: https://github.com/corn-pivotal/Workshop-v3/blob/master/Workshop-UI/manifest.yml
+    ManifestUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2/blob/master/Fortune-Teller-UI/manifest.yml
