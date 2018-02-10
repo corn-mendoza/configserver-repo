@@ -21,5 +21,5 @@ workshopConfig:
     ConfigRepoUrl: https://github.com/corn-pivotal/configserver-repo
     PCFMetricsUrl: https://metrics.sys.islands.cloud/apps/
     ExchangeUrl: https://exchangeui-alcidine-trichinization.apps.islands.cloud/
-    GithubRepoUrl: https://github.com/corn-pivotal/Workshop-v3
+    GithubRepoUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2
     ManifestUrl: https://github.com/corn-pivotal/Workshop-v3/blob/master/Workshop-UI/manifest.yml
