@@ -20,6 +20,6 @@ workshopConfig:
     ConfigServerUrl: https://spring-cloud-broker.apps.islands.cloud/dashboard/p-config-server/5df1a19e-0f03-421f-9475-36790a1eee1c
     ConfigRepoUrl: https://github.com/corn-pivotal/configserver-repo
     PCFMetricsUrl: https://metrics.sys.islands.cloud/apps/
-    ExchangeUrl: https://exchangeui.apps.islands.cloud/
+    ExchangeUrl: https://exchangeui-red.apps.islands.cloud/
     GithubRepoUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2
     ManifestUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2/blob/master/Fortune-Teller-UI/manifest.yml
