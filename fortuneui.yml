@@ -23,3 +23,5 @@ workshopConfig:
     ExchangeUrl: https://exchangeui.apps.islands.cloud/
     GithubRepoUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2
     ManifestUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2/blob/master/Fortune-Teller-UI/manifest.yml
+    PipelineUrl: https://pivotal-workshops.visualstudio.com/Fortune%20Teller/_build
+    
