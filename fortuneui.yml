@@ -9,8 +9,6 @@ fortuneService:
   address: fortuneservice
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
-ConnectionStrings:
-    AttendeeContext: Server=pa-workshop.database.windows.net;Initial Catalog=AttendeeDB-S1;User ID=dbadmin;Password=PCF!Password;
 workshopConfig:
     AppsManagerUrl: https://apps.sys.islands.cloud
     AppBaseUrl: https://apps.sys.islands.cloud/organizations/4d0e4fe7-8020-4acc-b131-e8efea266855/spaces/4cffcac1-8c17-493a-88fb-ff4f05f69b93/applications/
