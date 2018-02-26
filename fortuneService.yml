@@ -1,3 +1,11 @@
+Logging: 
+  IncludeScopes: false
+  Debug:
+    LogLevel: 
+      Default: Information
+  Console:
+    LogLevel: 
+      Default: Information
 eureka:
   client:
     shouldFetchRegistry: false
@@ -8,3 +16,8 @@ mysql:
     database: mydatabase
     username: username
     password: password
+management: 
+  endpoints: 
+    path: /cloudfoundryapplication
+    cloudfoundry: 
+      validateCertificates: false
