@@ -37,4 +37,4 @@ management:
     cloudfoundry: 
       validateCertificates: false
 ConnectionStrings:
-    MusicContext: Server=(localdb)\\mssqllocaldb;Database=MusicContext;username={user};password={password};MultipleActiveResultSets=true
+    MusicContext: Server=(localdb)\\mssqllocaldb;Database=MusicContext;User ID=username;Password=password;MultipleActiveResultSets=true
