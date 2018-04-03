@@ -1,0 +1,14 @@
+workshopConfig:
+    AppsManagerUrl: https://apps.sys.cloud.rick-ross.com
+    AppBaseUrl: https://apps.sys.cloud.rick-ross.com/organizations/d920c5d9-769e-45fa-9325-4651d8715b2c/spaces/6f562a48-91a0-47d9-84c8-7ebbb40113aa/applications/
+    EurekaDashboardUrl: https://eureka-679b3c93-1545-40fe-b7ce-6862995db8f9.app.cloud.rick-ross.com/
+    HystrixDashboardUrl: https://hystrix-7757d8b2-e527-421f-a6c6-28117ebc0758.app.cloud.rick-ross.com/hystrix/monitor?stream=https%3A%2F%2Fturbine-7757d8b2-e527-421f-a6c6-28117ebc0758.app.cloud.rick-ross.com%2Fturbine.stream
+    OpsManagerUrl: https://opsmgr.rick-ross.com
+    ConfigServerUrl: https://spring-cloud-broker.app.cloud.rick-ross.com/dashboard/p-config-server/12c06ea8-772a-424d-a1ab-2cc4cc249005
+    ConfigRepoUrl: https://github.com/corn-pivotal/configserver-repo
+    PCFMetricsUrl: https://metrics.sys.cloud.rick-ross.com/apps/
+    ExchangeUrl: https://exchangeui-red.apps.cloud.rick-ross.com/
+    GithubRepoUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2
+    ManifestUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2/blob/master/Fortune-Teller-UI/manifest.yml
+    PipelineUrl: https://pivotal-workshops.visualstudio.com/Fortune%20Teller/_build
+    SwaggerUrl: https://fortuneservicelegacy.app.cloud.rick-ross.com/
