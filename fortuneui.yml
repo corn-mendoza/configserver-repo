@@ -19,11 +19,11 @@ fortuneService:
   allFortunesPath: api/fortunes/all
 workshopConfig:
     AppsManagerUrl: https://apps.sys.islands.cloud
-    AppBaseUrl: https://apps.sys.islands.cloud/organizations/4d0e4fe7-8020-4acc-b131-e8efea266855/spaces/4cffcac1-8c17-493a-88fb-ff4f05f69b93/applications/
-    EurekaDashboardUrl: https://eureka-c1e246a6-a718-46c2-9a68-f9a067c9c7be.apps.islands.cloud/
-    HystrixDashboardUrl: https://hystrix-4864543c-43d9-4a1c-a119-db5af13bf860.apps.islands.cloud/hystrix/monitor?stream=https%3A%2F%2Fturbine-4864543c-43d9-4a1c-a119-db5af13bf860.apps.islands.cloud%2Fturbine.stream
+    AppBaseUrl: https://apps.sys.islands.cloud/organizations/89bc88c1-8e35-43df-8e41-de5758876a36/spaces/edcdd59a-58f3-4ab4-9e7f-7a4948472b7b/applications/
+    EurekaDashboardUrl: https://eureka-c9bf04ba-353a-43c1-869d-648095269adc.apps.islands.cloud/
+    HystrixDashboardUrl: https://hystrix-58c77649-6ddb-4987-9754-2d47358f3e34.apps.islands.cloud/hystrix/monitor?stream=https%3A%2F%2Fturbine-58c77649-6ddb-4987-9754-2d47358f3e34.apps.islands.cloud%2Fturbine.stream
     OpsManagerUrl: https://opsmgr.islands.cloud
-    ConfigServerUrl: https://spring-cloud-broker.apps.islands.cloud/dashboard/p-config-server/5df1a19e-0f03-421f-9475-36790a1eee1c
+    ConfigServerUrl: hhttps://spring-cloud-broker.apps.islands.cloud/dashboard/p-config-server/f6588c35-cbfe-4bae-b757-d9261ef4be0b
     ConfigRepoUrl: https://github.com/corn-pivotal/configserver-repo
     PCFMetricsUrl: https://metrics.sys.islands.cloud/apps/
     ExchangeUrl: https://exchangeui.apps.islands.cloud/
@@ -31,7 +31,7 @@ workshopConfig:
     ManifestUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2/blob/master/Fortune-Teller-UI/manifest.yml
     PipelineUrl: https://pivotal-workshops.visualstudio.com/Fortune%20Teller/_build
     SwaggerUrl: https://fortuneServiceLegacy.apps.islands.cloud/
-    MarketplaceUrl: https://apps.sys.islands.cloud/organizations/4d0e4fe7-8020-4acc-b131-e8efea266855/marketplace
+    MarketplaceUrl: https://apps.sys.islands.cloud/organizations/89bc88c1-8e35-43df-8e41-de5758876a36/spaces/edcdd59a-58f3-4ab4-9e7f-7a4948472b7b/marketplace
 management: 
   endpoints: 
     path: /cloudfoundryapplication
