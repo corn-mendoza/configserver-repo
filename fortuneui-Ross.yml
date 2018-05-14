@@ -12,3 +12,5 @@ workshopConfig:
     ManifestUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2/blob/master/Fortune-Teller-UI/manifest.yml
     PipelineUrl: https://pivotal-workshops.visualstudio.com/Fortune%20Teller/_build
     SwaggerUrl: https://fortuneservicelegacy.app.cloud.rick-ross.com/
+    MarketplaceUrl: https://apps.sys.cloud.rick-ross.com/organizations/d920c5d9-769e-45fa-9325-4651d8715b2c/marketplace
+    
