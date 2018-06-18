@@ -1,0 +1,16 @@
+workshopConfig:
+    AppsManagerUrl: https://apps.sys.visland.net
+    AppBaseUrl: https://apps.sys.visland.net/organizations/c79ea5cd-2e5f-4a10-b263-4989f4a4a3ca/spaces/e4dcb16d-fd77-4ac4-8b3d-5fa07a2dfafe/applications/
+    EurekaDashboardUrl: https://eureka-1ce8d2cf-dda6-4b4f-a21c-4ea83644b132.apps.visland.net/
+    HystrixDashboardUrl: https://hystrix-6d417362-25c7-47fc-9fe5-4e4fca4d6205.apps.visland.net/hystrix/monitor?stream=https%3A%2F%2Fturbine-6d417362-25c7-47fc-9fe5-4e4fca4d6205.apps.visland.net%2Fturbine.stream
+    OpsManagerUrl: https://opsmgr.visland.net
+    ConfigServerUrl: https://spring-cloud-broker.apps.visland.net/dashboard/p-config-server/1ab7d27e-47e5-4222-9a2a-5f8f889cda2a
+    ConfigRepoUrl: https://github.com/corn-pivotal/configserver-repo
+    PCFMetricsUrl: https://metrics.sys.visland.net/apps/
+    ExchangeUrl: https://exchangeui.apps.visland.net/
+    GithubRepoUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2
+    ManifestUrl: https://github.com/corn-pivotal/Fortune-Demo-Core2/blob/master/Fortune-Teller-UI/manifest.yml
+    PipelineUrl: https://pivotal-workshops.visualstudio.com/Fortune%20Teller/_build
+    SwaggerUrl: https://fortuneservicelegacy.apps.visland.net/
+    MarketplaceUrl: https://apps.sys.visland.net/organizations/c79ea5cd-2e5f-4a10-b263-4989f4a4a3ca/marketplace
+    
