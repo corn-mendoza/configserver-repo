@@ -1,6 +1,6 @@
 workshopConfig:
     AppsManagerUrl: https://apps.sys.visland.net
-    AppBaseUrl: https://apps.sys.visland.net/organizations/c79ea5cd-2e5f-4a10-b263-4989f4a4a3ca/spaces/e4dcb16d-fd77-4ac4-8b3d-5fa07a2dfafe/applications/
+    AppBaseUrl: https://apps.sys.visland.net/organizations/c09c588d-1816-4227-be13-25f4599874cc/spaces/5fd11072-ad64-4412-86a2-c02243cee850/applications/06d1c729-e01b-4ff6-af4e-00700c7bf094/
     EurekaDashboardUrl: https://eureka-1ce8d2cf-dda6-4b4f-a21c-4ea83644b132.apps.visland.net/
     HystrixDashboardUrl: https://hystrix-6d417362-25c7-47fc-9fe5-4e4fca4d6205.apps.visland.net/hystrix/monitor?stream=https%3A%2F%2Fturbine-6d417362-25c7-47fc-9fe5-4e4fca4d6205.apps.visland.net%2Fturbine.stream
     OpsManagerUrl: https://opsmgr.visland.net

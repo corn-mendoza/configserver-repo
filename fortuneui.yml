@@ -23,7 +23,7 @@ workshopConfig:
     EurekaDashboardUrl: https://eureka-c9bf04ba-353a-43c1-869d-648095269adc.apps.islands.cloud/
     HystrixDashboardUrl: https://hystrix-58c77649-6ddb-4987-9754-2d47358f3e34.apps.islands.cloud/hystrix/monitor?stream=https%3A%2F%2Fturbine-58c77649-6ddb-4987-9754-2d47358f3e34.apps.islands.cloud%2Fturbine.stream
     OpsManagerUrl: https://opsmgr.islands.cloud
-    ConfigServerUrl: hhttps://spring-cloud-broker.apps.islands.cloud/dashboard/p-config-server/f6588c35-cbfe-4bae-b757-d9261ef4be0b
+    ConfigServerUrl: https://spring-cloud-broker.apps.islands.cloud/dashboard/p-config-server/f6588c35-cbfe-4bae-b757-d9261ef4be0b
     ConfigRepoUrl: https://github.com/corn-pivotal/configserver-repo
     PCFMetricsUrl: https://metrics.sys.islands.cloud/apps/
     ExchangeUrl: https://exchangeui.apps.islands.cloud/
