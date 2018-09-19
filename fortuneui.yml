@@ -18,7 +18,7 @@ fortuneService:
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
 workshopConfig:
-    AppsManagerUrl: https://apps.sys.visland.net
+    AppsManagerUrl: https://apps.sys.visland.net/index.aspx
     AppBaseUrl: https://apps.sys.visland.net/organizations/fed6c6b3-5d0e-422f-bab7-b984c4247574/spaces/40410160-bff0-4f28-bd0c-245ce6346565/applications/
     EurekaDashboardUrl: https://eureka-4a9b7013-c9d5-47c6-aa78-c58c4570dcb3.apps.visland.net/
     HystrixDashboardUrl: https://hystrix-5f514c59-0e70-4637-a092-a5029b2926ad.apps.visland.net/hystrix/monitor?stream=https%3A%2F%2Fturbine-5f514c59-0e70-4637-a092-a5029b2926ad.apps.visland.net%2Fturbine.stream
