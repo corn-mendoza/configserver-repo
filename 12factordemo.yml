@@ -1,0 +1,37 @@
+Logging: 
+  IncludeScopes: false
+  Debug:
+    LogLevel: 
+      Default: Information
+  Console:
+    LogLevel: 
+      Default: Information
+eureka:
+  client:
+    shouldRegisterWithEureka: false
+hystrix:
+  stream:
+    validate_certificates: false
+fortuneService:
+  scheme: http
+  address: fortuneservice
+  randomFortunePath: api/fortunes/random
+  allFortunesPath: api/fortunes/all
+workshopConfig:
+    AppsManagerUrl: https://apps.sys.islands.cloud
+    AppBaseUrl: https://apps.sys.islands.cloud/organizations/fed6c6b3-5d0e-422f-bab7-b984c4247574/spaces/40410160-bff0-4f28-bd0c-245ce6346565/applications/
+    OpsManagerUrl: https://opsmgr.islands.cloud
+    ConfigServerUrl: https://spring-cloud-broker.apps.islands.cloud/dashboard/p-config-server/b1305ca1-6137-4744-a608-d0eb0cdcf54b
+    ConfigRepoUrl: https://github.com/corn-pivotal/configserver-repo
+    PCFMetricsUrl: https://metrics.sys.islands.cloud/apps/
+    GithubRepoUrl: https://github.com/corn-pivotal/12-factor-demo
+    ManifestUrl: https://github.com/corn-pivotal/12-factor-demo/blob/master/webuicore/webuicore/manifest.yml
+    PipelineUrl: https://pivotal-workshops.visualstudio.com/Fortune%20Teller/_build
+    MarketplaceUrl: https://apps.sys.islands.cloud/organizations/fed6c6b3-5d0e-422f-bab7-b984c4247574/spaces/40410160-bff0-4f28-bd0c-245ce6346565/marketplace
+management: 
+  endpoints: 
+    path: /cloudfoundryapplication
+    cloudfoundry: 
+      validateCertificates: false
+ConnectionStrings:
+    MusicContext: Server=(localdb)\\mssqllocaldb;Database=MusicContext;User ID=username;Password=password;MultipleActiveResultSets=true
