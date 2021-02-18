@@ -1,10 +1,6 @@
 "piranha": {
-    "DatabaseType": "file",
-    "DatabaseFilename": "piranha.db",
-    "DatabasePath": ".",
-    "BasePath": "wwwroot/uploads",
-    "BaseUrl": "~/uploads/",
-    "MediaStorageType": "file",
+    "DatabaseType": "sqlserver",
+    "MediaStorageType": "azure",
     "EnableDiscoveryClient": false,
     "EnableRedisCache": false,
     "EnableSessionCache": false
