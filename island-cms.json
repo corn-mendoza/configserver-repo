@@ -1,0 +1,15 @@
+"piranha": {
+    "DatabaseType": "file",
+    "DatabaseFilename": "piranha.db",
+    "DatabasePath": ".",
+    "BasePath": "wwwroot/uploads",
+    "BaseUrl": "~/uploads/",
+    "MediaStorageType": "file",
+    "EnableDiscoveryClient": false,
+    "EnableRedisCache": false,
+    "EnableSessionCache": false
+},
+"ConnectionStrings": {
+    "piranha": "Server=sqlserver;Database=island_cms;UID=piranha_user;Password=password",
+    "pirahna-media": "DefaultEndpointsProtocol=https;AccountName=;AccountKey=;EndpointSuffix="
+}
